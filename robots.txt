@@ -1,0 +1,6 @@
+User-agent: *
+Allow: /
+
+Disallow: /elements.html
+
+Sitemap: https://ela103.github.io/travel_agency/sitemap.xml
